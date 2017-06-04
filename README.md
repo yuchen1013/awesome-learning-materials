@@ -9,3 +9,7 @@ Knowsec : http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html
 
 # VPN
 https://www.tianyajsq.com/
+
+#Block Chain
+http://www.8btc.com/ebook-blockchain
+http://stock.qq.com/a/20160607/030548.htm
