@@ -8,6 +8,8 @@ http://www.8btc.com/blockchain-and-insurance
 
 关于区块链技术在保险业应用的思考
 http://insurance.jrj.com.cn/2017/04/25081622377713.shtml
+   - “安链云”电子保单存储系统
+   - 阳光贝”积分服务 -> Membership account？+ 服务
 
 
 # Block Chain Tech
