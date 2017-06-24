@@ -6,6 +6,10 @@ http://chsh.sinoins.com/2016-11/08/content_212687.htm
 【区块链与保险业】专题：风险产品的自管理模型
 http://www.8btc.com/blockchain-and-insurance
 
+关于区块链技术在保险业应用的思考
+http://insurance.jrj.com.cn/2017/04/25081622377713.shtml
+
+
 # Block Chain Tech
 http://www.8btc.com/ebook-blockchain
 http://stock.qq.com/a/20160607/030548.htm
