@@ -9,6 +9,9 @@ http://www.8btc.com/blockchain-and-insurance
 BitShares Passbook——基于区块链的会员管理平台
 http://www.8btc.com/bitshares-passbook
 
+# BlockChain Learning Video
+http://edu.csdn.net/courses/o317_s5181/%E4%BA%91%E8%AE%A1%E7%AE%97/%E5%A4%A7%E6%95%B0%E6%8D%AE_%E5%8C%BA%E5%9D%97%E9%93%BE
+
 关于区块链技术在保险业应用的思考
 http://insurance.jrj.com.cn/2017/04/25081622377713.shtml
    - “安链云”电子保单存储系统
